@@ -1,3 +1,9 @@
+.face{
+   background-color: orange;
+
+}
+
+
 .header{
    background-color: orange;
     color: white;
@@ -6,9 +12,20 @@
 }
 .footer{
 
-    background: #2D2E30;
+    background-color: #2D2E30;
     color: white;
     padding-top: 20px;
     padding-bottom: 20px;
+
+}
+.menu{
+
+   b
+
+}
+.other{
+
+
+
 
 }
