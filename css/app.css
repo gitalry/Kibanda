@@ -1,31 +1,27 @@
-.face{
-   background-color: orange;
-
+.face {
+    background-color: orange;
 }
 
-
-.header{
-   background-color: orange;
+.header {
+    background-color: orange;
     color: white;
     padding-top: 20px;
     padding-bottom: 20px;
 }
-.footer{
 
+.footer {
     background-color: #2D2E30;
     color: white;
     padding-top: 20px;
     padding-bottom: 20px;
-
 }
-.menu{
 
-   b
-
+.menu {
+    b
 }
-.other{
 
+.other {}
 
-
-
+.img {
+   border:"5px solid black"
 }
