@@ -1,5 +1,9 @@
-.face {
+body {
     background-color: orange;
+}
+
+.face {
+    background-color: r;
 }
 
 .header {
@@ -16,7 +20,7 @@
     padding-bottom: 20px;
 }
 
-.menu img{
+.menu img {
     max-height: 500px;
     max-width: 350px;
 }
@@ -24,5 +28,13 @@
 .other {}
 
 .img {
-   border:"5px solid black"
+    border-color: black;
+    border-style: solid;
+    border: 4px;
+    border-radius: 15px;
+}
+
+.space {
+    border-color: black;
+    border-style: solid;
 }
