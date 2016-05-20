@@ -3,9 +3,7 @@ body {
       color: white;
 }
 
-.face {
-    background-color: r;
-}
+
 
 .header {
     background-color: orange;
@@ -71,12 +69,6 @@ font-family: 'Ubuntu', sans-serif;
 submit-button {
     background-color: chartreuse;
     color: darkgreen;
-}
-.empty {
-    height: 50%;
-}
-.empty2 {
-    height: 39%;
 }
 
 span {
