@@ -4,14 +4,9 @@ body {
     color: white;
 }
 
-.x {
-    color: white;
-    font-size: 2em;
-}
-
 iframe {
-    min-width: 600px;
-    min-height: 400px;
+    min-width: inherit;
+    min-height: inherit;
 }
 
 .right {
