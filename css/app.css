@@ -1,9 +1,11 @@
 body {
-    background-color: #2A0C20;
-      color: white;
+    background-color: #B55840;
+    color: white;
 }
 
-
+.right {
+    object-position: right;
+}
 
 .header {
     background-color: orange;
@@ -32,11 +34,10 @@ img {
 }
 
 .space {
-
-
     background-color: green;
     height: 500px;
 }
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -50,14 +51,15 @@ li {
 p {
     border: 2px solid white;
     color: white;
-
 }
-porti{
+
+porti {
     padding-top: 60px;
 }
+
 a {
     color: white;
-font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .submit-button {
