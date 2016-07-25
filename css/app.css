@@ -1,6 +1,14 @@
 body {
-    background-color: #B55840;
+    font-family: 'Poiret One', cursive;
+    background-color: violet;
+    color: black;
+}
+
+.x {
+    background-color: #2D2E30;
     color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .right {
