@@ -1,14 +1,18 @@
 body {
     font-family: 'Poiret One', cursive;
-    background-color: violet;
-    color: black;
+    background-color: #2D2E30;
+    color: white;
 }
 
 .x {
     background-color: #2D2E30;
     color: white;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    font-size: 2em;
+}
+
+iframe {
+    min-width: 600px;
+    min-height: 400px;
 }
 
 .right {
@@ -23,6 +27,7 @@ body {
 }
 
 .footer {
+    font-family: 'Poiret One', cursive;
     background-color: #2D2E30;
     color: white;
     padding-top: 20px;
@@ -55,17 +60,21 @@ ul {
 ul: li {
     float: left;
 }
+
 .submit-button {
     background-color: chartreuse;
     color: darkgreen;
-
 }
 
 a {
+    font-size: 2em;
+    font-weight: 300;
     display: block;
-    padding: 8px;
-    background-color: 333;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: beige;
 }
+
 
 /*
     ul {
@@ -74,8 +83,9 @@ a {
     padding: 0;
     overflow: hidden;
 */
-}
 
+
+}
 li a {
     display: block;
     color: white;
@@ -84,9 +94,7 @@ li a {
     text-decoration: none;
 }
 
-
 /* Change the link color to #111 (black) on hover */
-
 li a:hover {
     background-color: black;
 }
